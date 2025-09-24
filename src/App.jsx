@@ -1,6 +1,6 @@
 import Menu from "./components/Menu/Menu.jsx";
 import Hero from "./components/Hero/Hero.jsx";
-import Projetos from './components/Projetos/Projetos.jsx'
+// import Projetos from './components/Projetos/Projetos.jsx'
 
 // arquivo principal
 export default function App(){
@@ -8,7 +8,7 @@ export default function App(){
     <div>
       <Menu />
       <Hero />
-      <Projetos />
+      {/* <Projetos /> */}
     </div>
   )
 }
