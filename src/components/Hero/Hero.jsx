@@ -18,7 +18,10 @@ export default function Hero() {
         <button onClick={exibicaoModal}>Fale Comigo</button>
       </div>
       <div>
-        <img src="" alt="garota negra na frente do computador"/>
+        <a href="https://github.com/Davidf555/Cardapio-Projeto-Final-M1" target="_blank">
+          <img src="/projeto_modulo2_davi.png" alt="garota negra na frente do computador"/>
+        </a>
+        
       </div>
 
       {/* modal invisivel */}
